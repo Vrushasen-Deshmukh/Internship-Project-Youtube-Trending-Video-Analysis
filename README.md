@@ -1,7 +1,7 @@
 🎬 Dashboard Title: "Inside YouTube: A Deep Dive into Global Video Trends"
 
-👤 Creator: Dhairyasen
-This dashboard is designed and curated by Dhairyasen, a passionate data analyst exploring real-world trends and digital behavior through data storytelling. The dashboard visualizes global insights from YouTube’s trending videos, helping users and creators understand patterns and performance metrics.
+👤 Creator: Vrushasen Deshmukh
+This dashboard is designed and created by Vrushasen, a passionate data analyst exploring real-world trends and digital behavior through data storytelling. The dashboard visualizes global insights from YouTube’s trending videos, helping users and creators understand patterns and performance metrics.
 📘 About the Dashboard
 This dashboard highlights key aspects of YouTube's trending content across regions and categories. The goal is to extract actionable insights on:
 Regional content popularity
